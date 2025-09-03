@@ -21,7 +21,7 @@
     "vite": "^4.4.9"
   },
   
-  "homepage": "https://jyotishmoy88.github.io/jyotishmoy-portfolio",
+  "homepage": "https://jyotishmoy88.github.io/portfolio",
 "scripts": {
   "dev": "vite",
   "build": "vite build",
